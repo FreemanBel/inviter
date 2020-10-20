@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T13:05:57.936Z" agent="5.0 (Windows)" etag="xPy_U-gOYMy-yO-Ja3mG" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-20T13:13:46.518Z" agent="5.0 (Windows)" etag="oyywjTm-3BrUUbJ7uQOU" version="13.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="544" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="777" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -75,7 +75,7 @@
         <mxCell id="dPusZcTZQIjrzUYtyK6u-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dPusZcTZQIjrzUYtyK6u-20" target="dPusZcTZQIjrzUYtyK6u-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dPusZcTZQIjrzUYtyK6u-20" value="&lt;div&gt;Целочисленное деление x&lt;/div&gt;&lt;div&gt;на p. Запись остатка в R в соответствующий позицию&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dPusZcTZQIjrzUYtyK6u-20" value="&lt;div&gt;x / p = D (R). Запись остатка в R в соответствующий позицию&lt;/div&gt;&lt;div&gt;x = D&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="162.51" y="840" width="185" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dPusZcTZQIjrzUYtyK6u-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dPusZcTZQIjrzUYtyK6u-21" target="dPusZcTZQIjrzUYtyK6u-22">
@@ -203,7 +203,7 @@
         <mxCell id="dPusZcTZQIjrzUYtyK6u-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dPusZcTZQIjrzUYtyK6u-166" target="dPusZcTZQIjrzUYtyK6u-167" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dPusZcTZQIjrzUYtyK6u-166" value="Конец F" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dPusZcTZQIjrzUYtyK6u-166" value="F" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="605" y="1500" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dPusZcTZQIjrzUYtyK6u-167" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -245,7 +245,7 @@
         <mxCell id="dPusZcTZQIjrzUYtyK6u-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dPusZcTZQIjrzUYtyK6u-175" target="dPusZcTZQIjrzUYtyK6u-176">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dPusZcTZQIjrzUYtyK6u-175" value="Запомнить, что x - отрицательное и убрать знак" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dPusZcTZQIjrzUYtyK6u-175" value="Запомнить, что x - отрицательное x = -x" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600.75" y="840" width="172" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dPusZcTZQIjrzUYtyK6u-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.482;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dPusZcTZQIjrzUYtyK6u-176" target="dPusZcTZQIjrzUYtyK6u-177">
@@ -269,7 +269,7 @@
         <mxCell id="dPusZcTZQIjrzUYtyK6u-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.522;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dPusZcTZQIjrzUYtyK6u-179" target="dPusZcTZQIjrzUYtyK6u-180">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dPusZcTZQIjrzUYtyK6u-179" value="Пока D больше 0" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dPusZcTZQIjrzUYtyK6u-179" value="Пока D &amp;gt; 0" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="602.5" y="1110" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dPusZcTZQIjrzUYtyK6u-180" value="Был ли x отрицательным?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
