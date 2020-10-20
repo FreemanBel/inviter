@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T12:21:40.260Z" agent="5.0 (Windows)" etag="uE5NY2xhapqlN-DCim52" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-20T13:05:57.936Z" agent="5.0 (Windows)" etag="xPy_U-gOYMy-yO-Ja3mG" version="13.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1600" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="544" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -63,7 +63,7 @@
         <mxCell id="dPusZcTZQIjrzUYtyK6u-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dPusZcTZQIjrzUYtyK6u-18" target="dPusZcTZQIjrzUYtyK6u-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dPusZcTZQIjrzUYtyK6u-18" value="&lt;div&gt;Пока p не станет&lt;/div&gt;&lt;div&gt;соответствовать&lt;/div&gt;&lt;div&gt;условиям&lt;br&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dPusZcTZQIjrzUYtyK6u-18" value="&lt;div&gt;Пока p &amp;gt; 16 или p &amp;lt; 2&lt;br&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="155.01" y="700" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dPusZcTZQIjrzUYtyK6u-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dPusZcTZQIjrzUYtyK6u-19" target="dPusZcTZQIjrzUYtyK6u-20">
