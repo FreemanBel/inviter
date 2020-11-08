@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T20:10:59.833Z" agent="5.0 (Windows)" etag="OjnnfrRM5ZLIZZOfgFcR" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T20:22:45.022Z" agent="5.0 (Windows)" etag="A50T2zNG5bCU41-ukGgS" version="13.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1360" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -553,7 +553,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wz7p-bx54S3iNn07I1t6-142" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1144.91" y="1360" width="233.26" height="30" as="geometry" />
+          <mxGeometry x="1143.95" y="1360" width="233.26" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wz7p-bx54S3iNn07I1t6-143" value="Конец F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1229.04" y="1365" width="60" height="20" as="geometry" />
@@ -568,12 +568,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wz7p-bx54S3iNn07I1t6-147" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1140.58" y="1435" width="240" height="35" as="geometry" />
+          <mxGeometry x="1140" y="1500" width="240" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Wz7p-bx54S3iNn07I1t6-149" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Wz7p-bx54S3iNn07I1t6-142" target="Wz7p-bx54S3iNn07I1t6-147">
+        <mxCell id="Wz7p-bx54S3iNn07I1t6-149" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Wz7p-bx54S3iNn07I1t6-142">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1070" y="1140" as="sourcePoint" />
-            <mxPoint x="1120" y="1090" as="targetPoint" />
+            <mxPoint x="1261" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz7p-bx54S3iNn07I1t6-150" value="Вывод S" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1140" y="1430" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz7p-bx54S3iNn07I1t6-152" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Wz7p-bx54S3iNn07I1t6-150" target="Wz7p-bx54S3iNn07I1t6-147">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="1640" as="sourcePoint" />
+            <mxPoint x="1170" y="1590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
